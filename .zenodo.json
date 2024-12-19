@@ -10,7 +10,8 @@
         {"scheme": "doi", "identifier": "10.5072/zenodo.1237936", "relation": "hasPart", "resource_type": "publication-report"},
         {"scheme": "doi", "identifier": "10.5072/zenodo.1237931", "relation": "hasPart", "resource_type": "dataset"},
         {"scheme": "doi", "identifier": "10.5072/zenodo.1237934", "relation": "hasPart", "resource_type": "software"},
-        {"scheme": "doi", "identifier": "10.5072/zenodo.1237939", "relation": "hasPart", "resource_type": "presentation"}
+        {"scheme": "doi", "identifier": "10.5072/zenodo.1237939", "relation": "hasPart", "resource_type": "presentation"},
+        {"scheme": "doi", "identifier": "10.5072/zenodo.1237939", "relation": "hasPart", "resource_type": "service"}
     ],
     "communities": [
         {"identifier": "aquainfra"}
